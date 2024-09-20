@@ -1,4 +1,4 @@
-# This is a Qoutes Generator app which is completly responsive using react app 
+# This is a Qoutes Generator app which is completly responsive using next app 
 
 In this app you can click on generate and it generate a random author name and his qoute
 
